@@ -14,7 +14,7 @@ This will create a target folder with jar file BatchFileReader-1.0.jar.
 
 **Example:**
 
-java -jar BatchFileReader-1.0.jar P:/Venki/School_univ_essay.txt 10
+java -jar BatchFileReader-1.0-SNAPSHOT.jar P:\school_univ_essay.txt 10
 
 This will create 10 threads and reads the text file from input location and writes the ceaser ciphered encrypted text to classpath with the file name ceaserCiphered.txt.
 
